@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/navrajsingh/Projects/CloudCoinext/app/build/intermediates/res/merged/debug/anim/anim_out.xml",
+        "source": "/Users/navrajsingh/Projects/CloudCoinext/app/src/main/res/anim/anim_out.xml"
+    },
+    {
+        "merged": "/Users/navrajsingh/Projects/CloudCoinext/app/build/intermediates/res/merged/debug/anim/anim_in.xml",
+        "source": "/Users/navrajsingh/Projects/CloudCoinext/app/src/main/res/anim/anim_in.xml"
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/Users/navrajsingh/Projects/CloudCoinext/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/bgxml.xml",
+        "source": "/Users/navrajsingh/Projects/CloudCoinext/app/src/main/res/drawable-mdpi/bgxml.xml"
+    },
+    {
+        "merged": "/Users/navrajsingh/Projects/CloudCoinext/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/progressbar.xml",
+        "source": "/Users/navrajsingh/Projects/CloudCoinext/app/src/main/res/drawable-mdpi/progressbar.xml"
+    },
+    {
+        "merged": "/Users/navrajsingh/Projects/CloudCoinext/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/radioselectorright.xml",
+        "source": "/Users/navrajsingh/Projects/CloudCoinext/app/src/main/res/drawable-mdpi/radioselectorright.xml"
+    },
+    {
+        "merged": "/Users/navrajsingh/Projects/CloudCoinext/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/buttonrightbg.xml",
+        "source": "/Users/navrajsingh/Projects/CloudCoinext/app/src/main/res/drawable-mdpi/buttonrightbg.xml"
+    },
+    {
+        "merged": "/Users/navrajsingh/Projects/CloudCoinext/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/buttonbg.xml",
+        "source": "/Users/navrajsingh/Projects/CloudCoinext/app/src/main/res/drawable-mdpi/buttonbg.xml"
+    },
+    {
+        "merged": "/Users/navrajsingh/Projects/CloudCoinext/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/radioselectorleft.xml",
+        "source": "/Users/navrajsingh/Projects/CloudCoinext/app/src/main/res/drawable-mdpi/radioselectorleft.xml"
+    },
+    {
+        "merged": "/Users/navrajsingh/Projects/CloudCoinext/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/border.xml",
+        "source": "/Users/navrajsingh/Projects/CloudCoinext/app/src/main/res/drawable-mdpi/border.xml"
+    },
+    {
+        "merged": "/Users/navrajsingh/Projects/CloudCoinext/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/npicker.xml",
+        "source": "/Users/navrajsingh/Projects/CloudCoinext/app/src/main/res/drawable-mdpi/npicker.xml"
+    },
+    {
+        "merged": "/Users/navrajsingh/Projects/CloudCoinext/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/etdesign.xml",
+        "source": "/Users/navrajsingh/Projects/CloudCoinext/app/src/main/res/drawable-mdpi/etdesign.xml"
+    },
+    {
+        "merged": "/Users/navrajsingh/Projects/CloudCoinext/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/dotted.xml",
+        "source": "/Users/navrajsingh/Projects/CloudCoinext/app/src/main/res/drawable-mdpi/dotted.xml"
+    },
+    {
+        "merged": "/Users/navrajsingh/Projects/CloudCoinext/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/buttoncommon.xml",
+        "source": "/Users/navrajsingh/Projects/CloudCoinext/app/src/main/res/drawable-mdpi/buttoncommon.xml"
+    },
+    {
+        "merged": "/Users/navrajsingh/Projects/CloudCoinext/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/dialogbg.xml",
+        "source": "/Users/navrajsingh/Projects/CloudCoinext/app/src/main/res/drawable-mdpi/dialogbg.xml"
+    }
+]

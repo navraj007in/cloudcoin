@@ -1,0 +1,7 @@
+#Sun Aug 13 21:45:55 IST 2017
+base.0=/Users/navrajsingh/Projects/CloudCoinext/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_f40bdbfa23d166a8f334268de9456f7861517ab6
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/navrajsingh/Projects/CloudCoinext/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_b98d07a3b61cb492fd0e50a6de3691db6e7c37bb/classes.dex
+base.1=/Users/navrajsingh/Projects/CloudCoinext/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_b98d07a3b61cb492fd0e50a6de3691db6e7c37bb
+file.0=/Users/navrajsingh/Projects/CloudCoinext/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_f40bdbfa23d166a8f334268de9456f7861517ab6/classes.dex

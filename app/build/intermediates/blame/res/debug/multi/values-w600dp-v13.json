@@ -1,0 +1,28 @@
+[
+    {
+        "outputFile": "/Users/navrajsingh/Projects/CloudCoinext/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w600dp-v13/values-w600dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 5,
+                    "endColumn": 10,
+                    "endOffset": 197
+                },
+                "from": {
+                    "file": "/Users/navrajsingh/Projects/CloudCoinext/app/src/main/res/values-w600dp/styles.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 2,
+                        "startOffset": 55,
+                        "endLine": 7,
+                        "endColumn": 10,
+                        "endOffset": 197
+                    }
+                }
+            }
+        ]
+    }
+]

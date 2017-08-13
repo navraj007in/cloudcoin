@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cloud Coin Consortium</string>
+    <string name="app_name0">Pocket Bank</string>
+    <string name="app_name1">С RAIDA технология за откриване на автентичност</string>
+    <string name="authfrackedstring">Определяне %1$d от %2$d увредени монети</string>
+    <string name="authstring">Удостоверяване на %1$d от %2$d CloudCoin файлове</string>
+    <string name="bank">Банка</string>
+    <string name="erremptyimport">Няма намерени CloudCoin-и във вашата папка за доходи. Моля поставете CloudCoin файлове (с разширение .jpg или .stack) в папката за доходите и опитайте отново. Директорията ви за доходи може да бъде намерена във вашето хранилище:\n\n%1$s</string>
+    <string name="errimport">Възникна грешка докато търсехме във вашата Import директория.</string>
+    <string name="errmnt">Приложението не може да намери вашата Import директория. Уверете се, че вашето хранилище е монтирано коректно.</string>
+    <string name="exportfailed">Неуспешно експортиране %1$d монети</string>
+    <string name="exportok">Монетите са били изнесени успешно \n  Може да ги намерите в директория:\n%1$s на вашето хранилище</string>
+    <string name="exporttag">Етикет при експортиране</string>
+    <string name="fixfracked">Определяне на увредени монети</string>
+    <string name="globalexporterror">Критична грешка. Монетите не са били изнесени</string>
+    <string name="importresults">Резултати от импортиране:</string>
+    <string name="importresultsauth">Автентични CloudCoin-и, които се преместват в банката: </string>
+    <string name="importresultstrash">Фалшиви CloudCoin-и или такива, които приложението не успя внесе и ги премести в кошчето: </string>
+    <string name="importtag">Етикет при импортиране</string>
+    <string name="importwarn">Това действие ще импортира всички CloudCoin файлове от папката за импортиране. Моля, сложете всички CloudCoin файлове (.jpg и .stack) в папката за импортиране, разположена във вашето хранилище:\n\n%1$s\n\n Приложението ще внесе %2$d файл(а). Натиснете OK за да продължите</string>
+    <string name="loading">Зареждане на</string>
+    <string name="movedtobank">Общо в банката се преместват: %1$d монети</string>
+    <string name="ok">OK</string>
+    <string name="sbank">Банка</string>
+    <string name="scounterfeit">Фалшиви</string>
+    <string name="sfractured">Увредени</string>
+    <string name="tadd">Добавяне монети</string>
+    <string name="tbank">Банка</string>
+    <string name="tbankinventory">Запаси</string>
+    <string name="total">Общо</string>
+    <string name="totaltoexport">Общо за експортиране: %1$d CloudCoins</string>
+    <string name="trashnote">Моля, проверете CloudCoin Кошчето\n за повече информация</string>
+    <string name="tspend">Изнасяне монети</string>
+    <string name="url">CloudCoinConsortium.com</string>
+</resources>

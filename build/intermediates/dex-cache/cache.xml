@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/navrajsingh/.android/build-cache/954009089d69847143edf088d3e365767d287f0c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="005d20a198159b87f65812fc5c51b2d84c5eba0a">
+        <dex dex="/Users/navrajsingh/Projects/CloudCoinext/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f71a4b4e2f7479e37bc5a0d30a7debc9508ccc49/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/navrajsingh/.android/build-cache/501bb8b21990b6c4c3175f73ffc8be0b4a13e144/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="646439081688c43e04ec4aa7ba6915ddfdcc337f">
+        <dex dex="/Users/navrajsingh/Projects/CloudCoinext/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_43a74ecadc08062537b422606c47680deb7b10ce/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/navrajsingh/.android/build-cache/cbf73b290db671a28836d65a8f7ab74fbeaa1d17/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="204f607419af8247cc1b2a61f50663c65f841c12">
+        <dex dex="/Users/navrajsingh/Projects/CloudCoinext/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_63e84acc296b1a09b315feab46124f1900059589/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/navrajsingh/Projects/CloudCoinext/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/navrajsingh/Projects/CloudCoinext/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_f40bdbfa23d166a8f334268de9456f7861517ab6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/navrajsingh/Projects/CloudCoinext/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8ff8b97b47dbc25b2e6288a57132888a7b2e1e2e">
+        <dex dex="/Users/navrajsingh/Projects/CloudCoinext/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_b98d07a3b61cb492fd0e50a6de3691db6e7c37bb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/navrajsingh/.android/build-cache/44e030964f250007dc17814cc0a1e30b30bd534e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="461929440e66685425a298693507f6fb27b0a872">
+        <dex dex="/Users/navrajsingh/Projects/CloudCoinext/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_968d8e1a09c9316a0f3e82756f33bf9d85212a1a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/navrajsingh/.android/build-cache/23b6af1df4946825dd97bd0bc3ada388e1ca5487/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7045152f3bd1870740b9bcb1cddff495e189774e">
+        <dex dex="/Users/navrajsingh/Projects/CloudCoinext/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_894beb81757eac8d1c21d91cb153080e357d51b4/classes.dex" />
+    </item>
+
+</items>

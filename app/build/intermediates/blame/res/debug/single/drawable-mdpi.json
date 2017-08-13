@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "/Users/navrajsingh/Projects/CloudCoinext/app/build/intermediates/res/merged/debug/drawable-mdpi/bankicon.png",
+        "source": "/Users/navrajsingh/Projects/CloudCoinext/app/src/main/res/drawable-mdpi/bankicon.png"
+    },
+    {
+        "merged": "/Users/navrajsingh/Projects/CloudCoinext/app/build/intermediates/res/merged/debug/drawable-mdpi/importbutton.png",
+        "source": "/Users/navrajsingh/Projects/CloudCoinext/app/src/main/res/drawable-mdpi/importbutton.png"
+    },
+    {
+        "merged": "/Users/navrajsingh/Projects/CloudCoinext/app/build/intermediates/res/merged/debug/drawable-mdpi/exporticon.png",
+        "source": "/Users/navrajsingh/Projects/CloudCoinext/app/src/main/res/drawable-mdpi/exporticon.png"
+    },
+    {
+        "merged": "/Users/navrajsingh/Projects/CloudCoinext/app/build/intermediates/res/merged/debug/drawable-mdpi/add.png",
+        "source": "/Users/navrajsingh/Projects/CloudCoinext/app/src/main/res/drawable-mdpi/add.png"
+    },
+    {
+        "merged": "/Users/navrajsingh/Projects/CloudCoinext/app/build/intermediates/res/merged/debug/drawable-mdpi/bg.png",
+        "source": "/Users/navrajsingh/Projects/CloudCoinext/app/src/main/res/drawable-mdpi/bg.png"
+    },
+    {
+        "merged": "/Users/navrajsingh/Projects/CloudCoinext/app/build/intermediates/res/merged/debug/drawable-mdpi/bankbutton.png",
+        "source": "/Users/navrajsingh/Projects/CloudCoinext/app/src/main/res/drawable-mdpi/bankbutton.png"
+    },
+    {
+        "merged": "/Users/navrajsingh/Projects/CloudCoinext/app/build/intermediates/res/merged/debug/drawable-mdpi/file_icon.png",
+        "source": "/Users/navrajsingh/Projects/CloudCoinext/app/src/main/res/drawable-mdpi/file_icon.png"
+    },
+    {
+        "merged": "/Users/navrajsingh/Projects/CloudCoinext/app/build/intermediates/res/merged/debug/drawable-mdpi/importicon.png",
+        "source": "/Users/navrajsingh/Projects/CloudCoinext/app/src/main/res/drawable-mdpi/importicon.png"
+    },
+    {
+        "merged": "/Users/navrajsingh/Projects/CloudCoinext/app/build/intermediates/res/merged/debug/drawable-mdpi/logo3.png",
+        "source": "/Users/navrajsingh/Projects/CloudCoinext/app/src/main/res/drawable-mdpi/logo3.png"
+    },
+    {
+        "merged": "/Users/navrajsingh/Projects/CloudCoinext/app/build/intermediates/res/merged/debug/drawable-mdpi/backicons.png",
+        "source": "/Users/navrajsingh/Projects/CloudCoinext/app/src/main/res/drawable-mdpi/backicons.png"
+    },
+    {
+        "merged": "/Users/navrajsingh/Projects/CloudCoinext/app/build/intermediates/res/merged/debug/drawable-mdpi/folder_icon.png",
+        "source": "/Users/navrajsingh/Projects/CloudCoinext/app/src/main/res/drawable-mdpi/folder_icon.png"
+    },
+    {
+        "merged": "/Users/navrajsingh/Projects/CloudCoinext/app/build/intermediates/res/merged/debug/drawable-mdpi/up.png",
+        "source": "/Users/navrajsingh/Projects/CloudCoinext/app/src/main/res/drawable-mdpi/up.png"
+    },
+    {
+        "merged": "/Users/navrajsingh/Projects/CloudCoinext/app/build/intermediates/res/merged/debug/drawable-mdpi/email.png",
+        "source": "/Users/navrajsingh/Projects/CloudCoinext/app/src/main/res/drawable-mdpi/email.png"
+    },
+    {
+        "merged": "/Users/navrajsingh/Projects/CloudCoinext/app/build/intermediates/res/merged/debug/drawable-mdpi/bank.png",
+        "source": "/Users/navrajsingh/Projects/CloudCoinext/app/src/main/res/drawable-mdpi/bank.png"
+    },
+    {
+        "merged": "/Users/navrajsingh/Projects/CloudCoinext/app/build/intermediates/res/merged/debug/drawable-mdpi/exportbutton.png",
+        "source": "/Users/navrajsingh/Projects/CloudCoinext/app/src/main/res/drawable-mdpi/exportbutton.png"
+    },
+    {
+        "merged": "/Users/navrajsingh/Projects/CloudCoinext/app/build/intermediates/res/merged/debug/drawable-mdpi/folder_icon_light.png",
+        "source": "/Users/navrajsingh/Projects/CloudCoinext/app/src/main/res/drawable-mdpi/folder_icon_light.png"
+    },
+    {
+        "merged": "/Users/navrajsingh/Projects/CloudCoinext/app/build/intermediates/res/merged/debug/drawable-mdpi/spend.png",
+        "source": "/Users/navrajsingh/Projects/CloudCoinext/app/src/main/res/drawable-mdpi/spend.png"
+    }
+]

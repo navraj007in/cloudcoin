@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">クラウドコインコンソーシアム</string>
+    <string name="app_name0">ポケットバンク</string>
+    <string name="app_name1">RAIDA信頼性検出機能あり</string>
+    <string name="authfrackedstring">破損クラウドコイン %1 %2$d $d を修正しています。</string>
+    <string name="authstring">クラウドコインファイル %1 %2$d $d の認証中</string>
+    <string name="bank">バンク</string>
+    <string name="erremptyimport">クラウドコインファイルがフォルダーにありません。エクスポートフォルダー内にCloudCoins (.jpg または .stack)ファイルをコピーし、もう一度やり直してください。エクスポートフォルダー:\n\n%1$s</string>
+    <string name="errimport">エクスポートフォルダー検索中にエラーが発生しました。</string>
+    <string name="errmnt">インポートフォルダーを見つけることができません。ディスクが正しくインストールされていることを確認してください。</string>
+    <string name="exportfailed">%1$をエクスポートできませんでした</string>
+    <string name="exportok">クラウドコインが正常にエクスポートされました。\nディスクの%1$sをご覧ください。</string>
+    <string name="exporttag">エクスポートタグ</string>
+    <string name="fixfracked">破損コインを修正</string>
+    <string name="globalexporterror">グローバルエラー:コインがエクスポートできませんでした。</string>
+    <string name="importresults">インポートの結果:</string>
+    <string name="importresultsauth">認証済、バンクへ移動:</string>
+    <string name="importresultstrash">インポート失敗または偽造コインの可能性によりゴミ箱に移動:</string>
+    <string name="importtag">インポートタグ</string>
+    <string name="importwarn">インポートフォルダーのすべてのクラウドコインファイルをインポートします。クラウドコインファイル (.jpg と .stack) を、ディスク:\n\n%1$s\n\nにあるインポートフォルダーに入れてください。クラウドコイン%2$をインポートします。続行する場合はOKをタップしてください。</string>
+    <string name="loading">読み込み中</string>
+    <string name="movedtobank">バンクへ移動した合計: %1$dコイン</string>
+    <string name="ok">OK</string>
+    <string name="sbank">バンク</string>
+    <string name="scounterfeit">偽造</string>
+    <string name="sfractured">破損</string>
+    <string name="tadd">コインを追加します。</string>
+    <string name="tbank">バンク</string>
+    <string name="tbankinventory">残高</string>
+    <string name="total">合計</string>
+    <string name="totaltoexport">エクスポート合計: %1$d コイン</string>
+    <string name="trashnote">クラウドコインのゴミ箱をチェックし\nエラー内容を確認してください。</string>
+    <string name="tspend">コインを使う</string>
+    <string name="url">CloudCoinConsortium.com</string>
+</resources>

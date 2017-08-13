@@ -1,0 +1,634 @@
+[
+    {
+        "outputFile": "/Users/navrajsingh/Projects/CloudCoinext/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-nl/values-nl.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "/Users/navrajsingh/Projects/CloudCoinext/app/src/main/res/values-nl/strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 2,
+                        "startOffset": 55,
+                        "endColumn": 55,
+                        "endOffset": 108
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 46,
+                    "endOffset": 155
+                },
+                "from": {
+                    "file": "/Users/navrajsingh/Projects/CloudCoinext/app/src/main/res/values-nl/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 2,
+                        "startOffset": 112,
+                        "endColumn": 44,
+                        "endOffset": 154
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 160,
+                    "endColumn": 71,
+                    "endOffset": 227
+                },
+                "from": {
+                    "file": "/Users/navrajsingh/Projects/CloudCoinext/app/src/main/res/values-nl/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 2,
+                        "startOffset": 158,
+                        "endColumn": 69,
+                        "endOffset": 225
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 232,
+                    "endColumn": 91,
+                    "endOffset": 319
+                },
+                "from": {
+                    "file": "/Users/navrajsingh/Projects/CloudCoinext/app/src/main/res/values-nl/strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 2,
+                        "startOffset": 2237,
+                        "endColumn": 89,
+                        "endOffset": 2324
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 324,
+                    "endColumn": 88,
+                    "endOffset": 408
+                },
+                "from": {
+                    "file": "/Users/navrajsingh/Projects/CloudCoinext/app/src/main/res/values-nl/strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 2,
+                        "startOffset": 2149,
+                        "endColumn": 86,
+                        "endOffset": 2233
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 413,
+                    "endColumn": 37,
+                    "endOffset": 446
+                },
+                "from": {
+                    "file": "/Users/navrajsingh/Projects/CloudCoinext/app/src/main/res/values-nl/strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 2,
+                        "startOffset": 631,
+                        "endColumn": 35,
+                        "endOffset": 664
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 451,
+                    "endColumn": 286,
+                    "endOffset": 733
+                },
+                "from": {
+                    "file": "/Users/navrajsingh/Projects/CloudCoinext/app/src/main/res/values-nl/strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 2,
+                        "startOffset": 1135,
+                        "endColumn": 284,
+                        "endOffset": 1417
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 738,
+                    "endColumn": 112,
+                    "endOffset": 846
+                },
+                "from": {
+                    "file": "/Users/navrajsingh/Projects/CloudCoinext/app/src/main/res/values-nl/strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 2,
+                        "startOffset": 1023,
+                        "endColumn": 110,
+                        "endOffset": 1131
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 851,
+                    "endColumn": 148,
+                    "endOffset": 995
+                },
+                "from": {
+                    "file": "/Users/navrajsingh/Projects/CloudCoinext/app/src/main/res/values-nl/strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 2,
+                        "startOffset": 875,
+                        "endColumn": 146,
+                        "endOffset": 1019
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1000,
+                    "endColumn": 68,
+                    "endOffset": 1064
+                },
+                "from": {
+                    "file": "/Users/navrajsingh/Projects/CloudCoinext/app/src/main/res/values-nl/strings.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 2,
+                        "startOffset": 2616,
+                        "endColumn": 66,
+                        "endOffset": 2680
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1069,
+                    "endColumn": 122,
+                    "endOffset": 1187
+                },
+                "from": {
+                    "file": "/Users/navrajsingh/Projects/CloudCoinext/app/src/main/res/values-nl/strings.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 2,
+                        "startOffset": 2494,
+                        "endColumn": 120,
+                        "endOffset": 2612
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1192,
+                    "endColumn": 48,
+                    "endOffset": 1236
+                },
+                "from": {
+                    "file": "/Users/navrajsingh/Projects/CloudCoinext/app/src/main/res/values-nl/strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 2,
+                        "startOffset": 528,
+                        "endColumn": 46,
+                        "endOffset": 572
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1241,
+                    "endColumn": 77,
+                    "endOffset": 1314
+                },
+                "from": {
+                    "file": "/Users/navrajsingh/Projects/CloudCoinext/app/src/main/res/values-nl/strings.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 2,
+                        "startOffset": 2684,
+                        "endColumn": 75,
+                        "endOffset": 2757
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1319,
+                    "endColumn": 90,
+                    "endOffset": 1405
+                },
+                "from": {
+                    "file": "/Users/navrajsingh/Projects/CloudCoinext/app/src/main/res/values-nl/strings.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 2,
+                        "startOffset": 2404,
+                        "endColumn": 88,
+                        "endOffset": 2490
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1410,
+                    "endColumn": 64,
+                    "endOffset": 1470
+                },
+                "from": {
+                    "file": "/Users/navrajsingh/Projects/CloudCoinext/app/src/main/res/values-nl/strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 2,
+                        "startOffset": 1787,
+                        "endColumn": 62,
+                        "endOffset": 1847
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1475,
+                    "endColumn": 84,
+                    "endOffset": 1555
+                },
+                "from": {
+                    "file": "/Users/navrajsingh/Projects/CloudCoinext/app/src/main/res/values-nl/strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 2,
+                        "startOffset": 1851,
+                        "endColumn": 82,
+                        "endOffset": 1931
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1560,
+                    "endColumn": 106,
+                    "endOffset": 1662
+                },
+                "from": {
+                    "file": "/Users/navrajsingh/Projects/CloudCoinext/app/src/main/res/values-nl/strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 2,
+                        "startOffset": 1935,
+                        "endColumn": 104,
+                        "endOffset": 2037
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1667,
+                    "endColumn": 48,
+                    "endOffset": 1711
+                },
+                "from": {
+                    "file": "/Users/navrajsingh/Projects/CloudCoinext/app/src/main/res/values-nl/strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 2,
+                        "startOffset": 480,
+                        "endColumn": 46,
+                        "endOffset": 524
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1716,
+                    "endColumn": 287,
+                    "endOffset": 1999
+                },
+                "from": {
+                    "file": "/Users/navrajsingh/Projects/CloudCoinext/app/src/main/res/values-nl/strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 2,
+                        "startOffset": 1421,
+                        "endColumn": 285,
+                        "endOffset": 1704
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 2004,
+                    "endColumn": 41,
+                    "endOffset": 2041
+                },
+                "from": {
+                    "file": "/Users/navrajsingh/Projects/CloudCoinext/app/src/main/res/values-nl/strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 2,
+                        "startOffset": 439,
+                        "endColumn": 39,
+                        "endOffset": 476
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2046,
+                    "endColumn": 79,
+                    "endOffset": 2121
+                },
+                "from": {
+                    "file": "/Users/navrajsingh/Projects/CloudCoinext/app/src/main/res/values-nl/strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 2,
+                        "startOffset": 1708,
+                        "endColumn": 77,
+                        "endOffset": 1783
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 2126,
+                    "endColumn": 33,
+                    "endOffset": 2155
+                },
+                "from": {
+                    "file": "/Users/navrajsingh/Projects/CloudCoinext/app/src/main/res/values-nl/strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 2,
+                        "startOffset": 668,
+                        "endColumn": 31,
+                        "endOffset": 697
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 2160,
+                    "endColumn": 38,
+                    "endOffset": 2194
+                },
+                "from": {
+                    "file": "/Users/navrajsingh/Projects/CloudCoinext/app/src/main/res/values-nl/strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 2,
+                        "startOffset": 741,
+                        "endColumn": 36,
+                        "endOffset": 775
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 2199,
+                    "endColumn": 49,
+                    "endOffset": 2244
+                },
+                "from": {
+                    "file": "/Users/navrajsingh/Projects/CloudCoinext/app/src/main/res/values-nl/strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 2,
+                        "startOffset": 779,
+                        "endColumn": 47,
+                        "endOffset": 824
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 2249,
+                    "endColumn": 47,
+                    "endOffset": 2292
+                },
+                "from": {
+                    "file": "/Users/navrajsingh/Projects/CloudCoinext/app/src/main/res/values-nl/strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 2,
+                        "startOffset": 828,
+                        "endColumn": 45,
+                        "endOffset": 871
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 2297,
+                    "endColumn": 53,
+                    "endOffset": 2346
+                },
+                "from": {
+                    "file": "/Users/navrajsingh/Projects/CloudCoinext/app/src/main/res/values-nl/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 2,
+                        "startOffset": 229,
+                        "endColumn": 51,
+                        "endOffset": 278
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 2351,
+                    "endColumn": 38,
+                    "endOffset": 2385
+                },
+                "from": {
+                    "file": "/Users/navrajsingh/Projects/CloudCoinext/app/src/main/res/values-nl/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 2,
+                        "startOffset": 282,
+                        "endColumn": 36,
+                        "endOffset": 316
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 2390,
+                    "endColumn": 65,
+                    "endOffset": 2451
+                },
+                "from": {
+                    "file": "/Users/navrajsingh/Projects/CloudCoinext/app/src/main/res/values-nl/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 2,
+                        "startOffset": 320,
+                        "endColumn": 63,
+                        "endOffset": 381
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 2456,
+                    "endColumn": 40,
+                    "endOffset": 2492
+                },
+                "from": {
+                    "file": "/Users/navrajsingh/Projects/CloudCoinext/app/src/main/res/values-nl/strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 2,
+                        "startOffset": 701,
+                        "endColumn": 38,
+                        "endOffset": 737
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 2497,
+                    "endColumn": 76,
+                    "endOffset": 2569
+                },
+                "from": {
+                    "file": "/Users/navrajsingh/Projects/CloudCoinext/app/src/main/res/values-nl/strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 2,
+                        "startOffset": 2328,
+                        "endColumn": 74,
+                        "endOffset": 2400
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 2574,
+                    "endColumn": 108,
+                    "endOffset": 2678
+                },
+                "from": {
+                    "file": "/Users/navrajsingh/Projects/CloudCoinext/app/src/main/res/values-nl/strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 2,
+                        "startOffset": 2041,
+                        "endColumn": 106,
+                        "endOffset": 2145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 2683,
+                    "endColumn": 54,
+                    "endOffset": 2733
+                },
+                "from": {
+                    "file": "/Users/navrajsingh/Projects/CloudCoinext/app/src/main/res/values-nl/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 2,
+                        "startOffset": 385,
+                        "endColumn": 52,
+                        "endOffset": 435
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 2738,
+                    "endColumn": 55,
+                    "endOffset": 2789
+                },
+                "from": {
+                    "file": "/Users/navrajsingh/Projects/CloudCoinext/app/src/main/res/values-nl/strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 2,
+                        "startOffset": 576,
+                        "endColumn": 53,
+                        "endOffset": 627
+                    }
+                }
+            }
+        ]
+    }
+]

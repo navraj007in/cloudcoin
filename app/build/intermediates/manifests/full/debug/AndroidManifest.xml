@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="co.cloudcoin.cc"
+    android:installLocation="internalOnly"
+    android:versionCode="43"
+    android:versionName="1.2.12" >
+
+    <uses-sdk
+        android:minSdkVersion="13"
+        android:targetSdkVersion="17" />
+
+    <supports-screens
+        android:anyDensity="true"
+        android:largeScreens="true"
+        android:normalScreens="true"
+        android:smallScreens="true"
+        android:xlargeScreens="true" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <application
+        android:icon="@mipmap/launcher"
+        android:label="@string/app_name" >
+        <activity
+            android:name="co.cloudcoin.cc.MainActivity"
+            android:label="@string/app_name"
+            android:theme="@style/app_theme" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+
+                <data android:scheme="file" />
+                <data android:host="*" />
+                <data android:pathPattern=".*\\.stack" />
+                <data android:pathPattern=".*\\..*\\.stack" />
+                <data android:pathPattern=".*\\..*\\..*\\.stack" />
+                <data android:pathPattern=".*\\..*\\..*\\..*\\.stack" />
+                <data android:pathPattern=".*\\..*\\..*\\..*\\..*\\.stack" />
+                <data android:pathPattern=".*\\..*\\..*\\..*\\..*\\..*\\.stack" />
+                <data android:mimeType="*/*" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+
+                <data android:scheme="content" />
+                <data android:pathPattern=".*\\.stack" />
+                <data android:mimeType="application/octet-stream" />
+            </intent-filter>
+
+            <!-- For http -->
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+
+                <data android:scheme="http" />
+                <data android:host="*" />
+                <data android:pathPattern=".*\\.stack" />
+                <data android:pathPattern=".*\\..*\\.stack" />
+                <data android:pathPattern=".*\\..*\\..*\\.stack" />
+                <data android:pathPattern=".*\\..*\\..*\\..*\\.stack" />
+                <data android:pathPattern=".*\\..*\\..*\\..*\\..*\\.stack" />
+                <data android:pathPattern=".*\\..*\\..*\\..*\\..*\\..*\\.stack" />
+                <data android:mimeType="*/*" />
+            </intent-filter>
+
+            <!-- For https -->
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+
+                <data android:scheme="https" />
+                <data android:host="*" />
+                <data android:pathPattern=".*\\.stack" />
+                <data android:pathPattern=".*\\..*\\.stack" />
+                <data android:pathPattern=".*\\..*\\..*\\.stack" />
+                <data android:pathPattern=".*\\..*\\..*\\..*\\.stack" />
+                <data android:pathPattern=".*\\..*\\..*\\..*\\..*\\.stack" />
+                <data android:pathPattern=".*\\..*\\..*\\..*\\..*\\..*\\.stack" />
+                <data android:mimeType="*/*" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="co.cloudcoin.cc.DirPickerActivity"
+            android:label="@string/app_name"
+            android:theme="@style/app_theme" >
+        </activity>
+
+        <meta-data
+            android:name="io.fabric.ApiKey"
+            android:value="b9d5b3a0d8f44120bc61008432ac166426430f30" />
+    </application>
+
+</manifest>

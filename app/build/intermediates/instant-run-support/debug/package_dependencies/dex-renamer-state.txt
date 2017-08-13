@@ -1,0 +1,16 @@
+#Sun Aug 13 21:45:54 IST 2017
+renamed.4=classes2.dex
+renamed.3=classes4.dex
+renamed.2=classes3.dex
+renamed.1=classes.dex
+base.4=/Users/navrajsingh/Projects/CloudCoinext/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_63e84acc296b1a09b315feab46124f1900059589
+renamed.0=classes5.dex
+base.3=/Users/navrajsingh/Projects/CloudCoinext/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_968d8e1a09c9316a0f3e82756f33bf9d85212a1a
+base.2=/Users/navrajsingh/Projects/CloudCoinext/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_894beb81757eac8d1c21d91cb153080e357d51b4
+base.1=/Users/navrajsingh/Projects/CloudCoinext/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_43a74ecadc08062537b422606c47680deb7b10ce
+base.0=/Users/navrajsingh/Projects/CloudCoinext/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f71a4b4e2f7479e37bc5a0d30a7debc9508ccc49
+file.4=/Users/navrajsingh/Projects/CloudCoinext/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_63e84acc296b1a09b315feab46124f1900059589/classes.dex
+file.3=/Users/navrajsingh/Projects/CloudCoinext/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_968d8e1a09c9316a0f3e82756f33bf9d85212a1a/classes.dex
+file.2=/Users/navrajsingh/Projects/CloudCoinext/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_894beb81757eac8d1c21d91cb153080e357d51b4/classes.dex
+file.1=/Users/navrajsingh/Projects/CloudCoinext/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_43a74ecadc08062537b422606c47680deb7b10ce/classes.dex
+file.0=/Users/navrajsingh/Projects/CloudCoinext/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f71a4b4e2f7479e37bc5a0d30a7debc9508ccc49/classes.dex

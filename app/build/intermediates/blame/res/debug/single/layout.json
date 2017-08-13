@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/navrajsingh/Projects/CloudCoinext/app/build/intermediates/res/merged/debug/layout/exportdialog.xml",
+        "source": "/Users/navrajsingh/Projects/CloudCoinext/app/src/main/res/layout/exportdialog.xml"
+    },
+    {
+        "merged": "/Users/navrajsingh/Projects/CloudCoinext/app/build/intermediates/res/merged/debug/layout/importdialog5.xml",
+        "source": "/Users/navrajsingh/Projects/CloudCoinext/app/src/main/res/layout/importdialog5.xml"
+    },
+    {
+        "merged": "/Users/navrajsingh/Projects/CloudCoinext/app/build/intermediates/res/merged/debug/layout/importdialog.xml",
+        "source": "/Users/navrajsingh/Projects/CloudCoinext/app/src/main/res/layout/importdialog.xml"
+    },
+    {
+        "merged": "/Users/navrajsingh/Projects/CloudCoinext/app/build/intermediates/res/merged/debug/layout/exportdialog2.xml",
+        "source": "/Users/navrajsingh/Projects/CloudCoinext/app/src/main/res/layout/exportdialog2.xml"
+    },
+    {
+        "merged": "/Users/navrajsingh/Projects/CloudCoinext/app/build/intermediates/res/merged/debug/layout/importdialog3.xml",
+        "source": "/Users/navrajsingh/Projects/CloudCoinext/app/src/main/res/layout/importdialog3.xml"
+    },
+    {
+        "merged": "/Users/navrajsingh/Projects/CloudCoinext/app/build/intermediates/res/merged/debug/layout/dirpicker.xml",
+        "source": "/Users/navrajsingh/Projects/CloudCoinext/app/src/main/res/layout/dirpicker.xml"
+    },
+    {
+        "merged": "/Users/navrajsingh/Projects/CloudCoinext/app/build/intermediates/res/merged/debug/layout/importdialog4.xml",
+        "source": "/Users/navrajsingh/Projects/CloudCoinext/app/src/main/res/layout/importdialog4.xml"
+    },
+    {
+        "merged": "/Users/navrajsingh/Projects/CloudCoinext/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/Users/navrajsingh/Projects/CloudCoinext/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/Users/navrajsingh/Projects/CloudCoinext/app/build/intermediates/res/merged/debug/layout/bankdialog.xml",
+        "source": "/Users/navrajsingh/Projects/CloudCoinext/app/src/main/res/layout/bankdialog.xml"
+    },
+    {
+        "merged": "/Users/navrajsingh/Projects/CloudCoinext/app/build/intermediates/res/merged/debug/layout/importdialog2.xml",
+        "source": "/Users/navrajsingh/Projects/CloudCoinext/app/src/main/res/layout/importdialog2.xml"
+    }
+]
